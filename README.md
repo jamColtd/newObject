@@ -1,0 +1,2 @@
+# newObject
+npm init -y
